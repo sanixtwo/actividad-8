@@ -1,0 +1,5 @@
+1. Moderación comunitaria y sistemas de reporte (Reporting)
+2. 2. Control de acceso basado en roles
+3. Anonimato opcional y minimización de datos
+4. Protección contra spam y bots (Capcha / Verificación)
+5. Cifrado de datos en tránsito y en reposo
